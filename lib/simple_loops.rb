@@ -19,7 +19,7 @@ end
 def output_array(array)
     counter = 0
    until counter == array.length-1
-         puts array[counter]
+          puts array[counter]
         counter += 1
    end
 end
